@@ -1,0 +1,67 @@
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Tmaster.exe.config
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Tmaster.exe.manifest
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Tmaster.application
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Tmaster.exe
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Tmaster.pdb
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\MySql.Data.dll
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\bin\Debug\MySql.Data.xml
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.csprojResolveAssemblyReference.cache
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.admin.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.already.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.alreadySID.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.attendance.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.Form1.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.info.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.mark.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.menu.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.Nameerror.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.nicerror.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.payed.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.payment.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.paysuccess.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.Properties.Resources.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.student.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.success.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.teachers.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.csproj.GenerateResource.Cache
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.exe.manifest
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.application
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.exe
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.pdb
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.report.resources
+C:\Users\gimha\Documents\Visual Studio 2015\Projects\Tmaster\Tmaster\obj\Debug\Tmaster.star.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Tmaster.exe.config
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.exe
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.pdb
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Tmaster.exe.manifest
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Tmaster.application
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Tmaster.exe
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Tmaster.pdb
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\bin\Debug\MySql.Data.xml
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.csprojResolveAssemblyReference.cache
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.admin.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.already.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.alreadySID.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.attendance.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.Form1.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.info.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.mark.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.menu.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.Nameerror.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.nicerror.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.payed.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.payment.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.paysuccess.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.Properties.Resources.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.report.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.star.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.student.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.success.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.teachers.resources
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.csproj.GenerateResource.Cache
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.exe.manifest
+F:\Project++\TM Complete+++++\Tmaster\Tmaster\obj\Debug\Tmaster.application
